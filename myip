@@ -10,7 +10,7 @@ GRAY="\e[0;37m"
 RESET="\e[0m"
 
 echo -e "${YELLOW}==============================${RESET}"
-echo -e "${YELLOW}        IP Address Info       ${RESET}"
+echo -e "${YELLOW}   IP Address Info By GORE       ${RESET}"
 echo -e "${YELLOW}==============================${RESET}"
 
 # List all network interfaces and their IPs
