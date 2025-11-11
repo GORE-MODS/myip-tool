@@ -35,3 +35,21 @@ A ip command for linux and windows
 # Save and restart PowerShell.
 
 # Now you can just type: myip
+
+# -----------------------------------------------------------
+
+# MacOS
+
+# Open Terminal and navigate to where you saved it, for example: cd ~/Documents
+
+# Make it executable: chmod +x myip.sh
+
+# Run it with: ./myip.sh
+
+# If you want to be able to run it from anywhere (like a built-in command), move it to /usr/local/bin: sudo mv myip.sh /usr/local/bin/myip sudo chmod +x /usr/local/bin/myip
+
+# Then you can just type: myip
+
+# and it’ll work system-wide — your very own command.
+
+# -----------------------------------------------------------
